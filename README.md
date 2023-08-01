@@ -17,9 +17,7 @@
 <code><img height="20" src="https://github.com/satty02/satty02/assets/85221760/5970329e-d72e-47e2-b840-a660f835d8e4"></code>
 <code><img height="20" src="https://github.com/satty02/satty02/assets/85221760/fa0c947f-b2c3-4953-a096-b422bfdc0fd2"></code>
 <code><img height="20" src="https://github.com/satty02/satty02/assets/85221760/7c360209-4e35-47e9-8125-48ee089ab16f"></code>
-
-<code><img height="20" src="![image](https://github.com/satty02/satty02/assets/85221760/0f8a2549-be24-46a3-8a1b-206cf170bd56)
-"></code>    
+<code><img height="20" src="https://github.com/satty02/satty02/assets/85221760/0f8a2549-be24-46a3-8a1b-206cf170bd56"></code>    
 
 
 <div align="center">
