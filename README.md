@@ -1,7 +1,7 @@
 ### Hello, I am Satish Pal 👋
 
 
-<di>
+<div>
 - 🔭 I’m currently working on MERN Stack Development.
 - 🌱 I’m currently learning Ethereum Cryptography
 - 🤔 I’m looking for help with Career Guidance.
