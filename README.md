@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=satty02&label=PROFILE+VIEWS)
 ### Hello, I am Satish Pal 👋
 
 
