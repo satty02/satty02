@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Ethereum Cryptography
 - 🤔 I’m looking for help with Career Guidance.
 - 💬 Ask me about Full Stack Development or any tech related stuff.
-- 📫 How to reach me: ...
+- 📫 How to reach me: fsd.satishpal@gmail.com
 - 😄 Pronouns: He/His
 
 **Languages and Tools:**  
